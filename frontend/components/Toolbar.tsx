@@ -9,8 +9,7 @@ import {
   Image, 
   Hand,
   ZoomIn,
-  ZoomOut,
-  Download
+  ZoomOut
 } from "lucide-react";
 import { Tool } from "../types/tools";
 import { CanvasElement } from "../types/canvas";
